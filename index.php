@@ -10,6 +10,10 @@
 <body>
   <h1>Hello Word</h1>
   <p>Heyy</p>
+  <ul>
+    <li>satu</li>
+    <li>dua</li>
+  </ul>
 </body>
 
 </html>
